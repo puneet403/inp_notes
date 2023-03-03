@@ -1,0 +1,6 @@
+linux commands for daily tasks
+
+
+Q4-- FIND  COMMAND VELOCIS USE;-
+#find / -name 
+Example -->  find / -name httpd 
